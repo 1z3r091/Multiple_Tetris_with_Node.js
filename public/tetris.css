@@ -1,0 +1,33 @@
+div#main {
+    position: absolute;
+    left: 0px;
+    width: 300px;
+    height: 540px;
+}
+
+div.main {
+    
+}
+
+div.blockFilled {
+    width: 28px;
+    height: 28px;
+    background: red;  
+    position: absolute;
+    border: 1px solid black;
+}
+
+div.blockEmpty {
+    width: 30px;
+    height: 30px;
+    background: black;  
+    position: absolute;
+    
+}
+
+div.blockWhite {
+    width: 30px;
+    height: 30px;
+    background: white;  
+    position: absolute;
+}
